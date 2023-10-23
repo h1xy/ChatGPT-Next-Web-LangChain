@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.4.0",
-    "@types/html-to-text": "^9.0.1",
+    "@types/html-to-text": "^9.0.3",
     "@types/node": "^20.3.3",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.7",
